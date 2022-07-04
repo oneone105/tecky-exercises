@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-07-04T17:19:09.934Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" etag="oo9HqZPFjG3_AgrJUOi3" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-04T17:25:16.917Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" etag="JgJPI5ySvX0Ahz1W-MhI" version="20.0.4" type="github">
   <diagram name="Page-1" id="f1b7ffb7-ca1e-a977-7cf5-a751b3c06c05">
-    <mxGraphModel dx="976" dy="818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="930" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -129,6 +129,21 @@
         </mxCell>
         <mxCell id="JPSK89S25n1LUuH9_Zfj-107" value="Price" style="text;spacingTop=-5;" vertex="1" parent="1">
           <mxGeometry x="740" y="630" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JPSK89S25n1LUuH9_Zfj-108" value="Product Details" style="text;spacingTop=-5;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="20" y="800" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JPSK89S25n1LUuH9_Zfj-111" value="" style="endArrow=none;html=1;rounded=0;fontSize=18;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="830" as="sourcePoint" />
+            <mxPoint x="800" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JPSK89S25n1LUuH9_Zfj-114" value="LIKE" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=12;fontStyle=0;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="715" y="115" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JPSK89S25n1LUuH9_Zfj-115" value="SHARE" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=10;fontStyle=0;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="765" y="115" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
