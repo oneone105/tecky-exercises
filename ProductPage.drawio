@@ -1,12 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2022-07-04T17:25:16.917Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" etag="JgJPI5ySvX0Ahz1W-MhI" version="20.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-07-05T02:58:57.645Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.4 Safari/605.1.15" etag="VAWTcAcdNhBNoIYrH49q" version="20.0.4" type="github">
   <diagram name="Page-1" id="f1b7ffb7-ca1e-a977-7cf5-a751b3c06c05">
-    <mxGraphModel dx="930" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="826" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="751" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="JPSK89S25n1LUuH9_Zfj-99" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#E6E6E6;fontSize=23;fontColor=none;" vertex="1" parent="1">
-          <mxGeometry y="920" width="820" height="249" as="geometry" />
-        </mxCell>
         <mxCell id="JPSK89S25n1LUuH9_Zfj-73" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="465" y="245" width="340" height="250" as="geometry" />
         </mxCell>
@@ -97,9 +94,6 @@
         <mxCell id="JPSK89S25n1LUuH9_Zfj-95" value="Shipped / Delivery In Person" style="text;spacingTop=-5;" vertex="1" parent="1">
           <mxGeometry x="280" y="630" width="30" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="JPSK89S25n1LUuH9_Zfj-98" value="FOOTER" style="text;spacingTop=-5;align=center;verticalAlign=middle;fontSize=36;fontColor=#CCCCCC" vertex="1" parent="1">
-          <mxGeometry y="919" width="820" height="250" as="geometry" />
-        </mxCell>
         <mxCell id="JPSK89S25n1LUuH9_Zfj-100" value="Asks" style="text;spacingTop=-5;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="465" y="600" width="30" height="20" as="geometry" />
         </mxCell>
@@ -144,6 +138,21 @@
         </mxCell>
         <mxCell id="JPSK89S25n1LUuH9_Zfj-115" value="SHARE" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=10;fontStyle=0;fillColor=#008cff;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="765" y="115" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="JPSK89S25n1LUuH9_Zfj-116" value="" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.graphics.lineChart;strokeColor=none;strokeColor2=#666666;strokeColor3=#008cff;strokeColor4=#dddddd;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1020" width="780" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="JPSK89S25n1LUuH9_Zfj-117" value="Price History" style="text;spacingTop=-5;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="20" y="990" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JPSK89S25n1LUuH9_Zfj-118" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="3" y="1230" width="820" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="JPSK89S25n1LUuH9_Zfj-99" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=#E6E6E6;fontSize=23;fontColor=none;" vertex="1" parent="JPSK89S25n1LUuH9_Zfj-118">
+          <mxGeometry y="1" width="820" height="249" as="geometry" />
+        </mxCell>
+        <mxCell id="JPSK89S25n1LUuH9_Zfj-98" value="FOOTER" style="text;spacingTop=-5;align=center;verticalAlign=middle;fontSize=36;fontColor=#CCCCCC" vertex="1" parent="JPSK89S25n1LUuH9_Zfj-118">
+          <mxGeometry width="820" height="250" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
